@@ -1,0 +1,19 @@
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  display: block;
+  margin: auto;
+  width: 960px;
+}
+.shows {
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
